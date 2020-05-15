@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/linesegments_intersect.dir/main.cc.o CMakeFiles/linesegments_intersect.dir/line_segments_intersect/line_segments_intersect.cc.o CMakeFiles/linesegments_intersect.dir/convex_hull/convex_hull.cc.o  -o linesegments_intersect -lboost_system -lboost_filesystem -lboost_iostreams 
